@@ -1,0 +1,8 @@
+.sass-cache/
+*.css.map
+/node_modules
+Icon?
+.idea
+*.json
+.DS_Store
+/utils/dbconfig.js
